@@ -18,7 +18,6 @@ This document describes how to create a private domain in the Private DNS consol
 >- For a better experience, we recommend you create a private domain name and set a DNS record for it first before associating a VPC.
 >- If no VPCs are displayed in the currently selected region, please create one in the [VPC console](https://console.cloud.tencent.com/vpc/vpc?rid=1/).
 >- If existing VPCs cannot meet your needs, you can modify them in the [VPC console](https://console.cloud.tencent.com/vpc/vpc?rid=1/).
->- VPC regions currently supported for association include Beijing, Shanghai, Chengdu, Chongqing, Guangzhou, and Silicon Valley.
 >
  - **Tags**: select a tag, through which you can categorize, search for, and aggregate Tencent Cloud resources. For more information, please see [Product Overview](https://intl.cloud.tencent.com/document/product/651/13334).
  - **Remarks**: enter the remarks of the private domain.
