@@ -18,7 +18,6 @@
 >- 为更好的体验，推荐您创建私有域名并设置解析记录后再关联 VPC。
 >- 若当前可选地域中未显示 VPC，请您前往 [VPC 控制台](https://console.cloud.tencent.com/vpc/vpc?rid=1/) 进行添加。
 >- 若现有的 VPC 不符合您的要求，请您前往 [VPC 控制台](https://console.cloud.tencent.com/vpc/vpc?rid=1/) 进行修改。
->- 当前支持关联的 VPC 区域有北京、上海、成都、重庆、广州、硅谷。
 >
  - **标签**：请选择标签，您可以通过标签对云资源进行分类、搜索、和聚合。详情请查看：[标签](https://intl.cloud.tencent.com/document/product/651/13334)。
  - **备注**：请填写私有域备注信息。
